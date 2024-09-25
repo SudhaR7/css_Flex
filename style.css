@@ -10,3 +10,7 @@ div{
     display: inline;
     margin-left: 600px;
 }
+a{
+    text-decoration: none;
+    color:white;
+}
