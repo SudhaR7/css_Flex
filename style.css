@@ -1,0 +1,12 @@
+div{
+    background-color: rgb(58, 53, 53);
+    color:white;
+    margin: 10px;
+}
+.container{
+    display:flex;
+}
+.sign{
+    display: inline;
+    margin-left: 600px;
+}
